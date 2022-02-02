@@ -29,5 +29,15 @@ Exemplos:
 ![image](https://user-images.githubusercontent.com/51412784/152227709-0b456bfe-973d-421f-b1d6-954944326fa7.png)
 
 Adicionar e deletar 
+
 ![image](https://user-images.githubusercontent.com/51412784/152227928-21deac72-c661-4860-a107-e03806d37ff6.png)
+
+
+# Aula 3 - Estilos/Styles
+
+## Classes
+
+![image](https://user-images.githubusercontent.com/51412784/152228158-3dd7acfe-7a89-4eca-809a-b5d8673986aa.png)
+
+
 
