@@ -39,5 +39,9 @@ Adicionar e deletar
 
 ![image](https://user-images.githubusercontent.com/51412784/152228158-3dd7acfe-7a89-4eca-809a-b5d8673986aa.png)
 
+### CSS
+- Acessando diretamente o CSS de um elemento
+![image](https://user-images.githubusercontent.com/51412784/152882323-76735da9-8c40-4bd1-9ac9-6e56a7e59fa2.png)
+
 
 
