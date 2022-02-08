@@ -44,4 +44,15 @@ Adicionar e deletar
 ![image](https://user-images.githubusercontent.com/51412784/152882323-76735da9-8c40-4bd1-9ac9-6e56a7e59fa2.png)
 
 
+# Aula 4 - Eventos
+
+- Eventos do mouse - mouseover, mouseout
+- Eventos de clique - click, dbclick
+- Eventos de atualização - Change, load
+
+## Event Listener 
+![image](https://user-images.githubusercontent.com/51412784/153092991-39859d53-dce0-47d3-ae86-ee65ca432dcd.png)
+![image](https://user-images.githubusercontent.com/51412784/153093016-f3baa8b4-cf18-4da1-a148-405f49d14788.png)
+
+
 
